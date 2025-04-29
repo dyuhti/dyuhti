@@ -18,6 +18,7 @@
   - Wrote a review article on **Fake News Detection** using ML classifiers
   - Various Python program with API integration and ML analysis
   - Created websites-front end
+  - Designed and collaborated with post graduate students for designing 3d prototypes
 - 💞️ I’m looking to collaborate on:
   - AI/ML-driven real-world applications
   - Innovative hardware-software projects
